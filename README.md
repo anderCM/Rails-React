@@ -107,8 +107,7 @@ rails db:seed
 To run the project, execute the following command:
 
 ```sh
-rails tailwindcss:build
-rails server or rails s
+./bin/dev
 ```
 
 ### Run tests
