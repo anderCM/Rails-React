@@ -25,7 +25,7 @@
 
 # 📖 Rails React <a name="about-project"></a>
 
-Rails React is a Ruby on Rails and Reactjs full-stack web application.
+Rails React is a Ruby on Rails and Reactjs full-stack web application to practice to connect both sides using mentioned frameworks following best practices for each language.
 
 ## 🛠 Built With <a name="built-with"></a>
 
