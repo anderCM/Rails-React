@@ -86,7 +86,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd Recipe-app
+  cd Rails-React
 
   bundle install
   yarn install
