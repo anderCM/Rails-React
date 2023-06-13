@@ -25,7 +25,7 @@
 
 # 📖 Rails React <a name="about-project"></a>
 
-Rails React is a Ruby on Rails and Reactjs full-stack web application.
+Rails React is a Ruby on Rails and Reactjs full-stack web application to practice to connect both sides using mentioned frameworks following best practices for each language.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -86,7 +86,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd Recipe-app
+  cd Rails-React
 
   bundle install
   yarn install
@@ -107,8 +107,7 @@ rails db:seed
 To run the project, execute the following command:
 
 ```sh
-rails tailwindcss:build
-rails server or rails s
+./bin/dev
 ```
 
 ### Run tests
@@ -120,22 +119,8 @@ rails db:migrate RAILS_ENV=test
 rspec spec
 ```
 
-If you are having problems with tests, please clean application caché and make sure you have executed.
-
-```sh
-rails db:seed
-```
-
-Presenting project:
-You can watch the video clicking this [here](https://www.loom.com/share/34831f0e4e334f8a9539f28d63813c3a) 
-
 ### Deployment
-Feel free to use this username and password
-```sh
-email: admin@microverse.com
-password: 12345678
-```
-or you can create your own account visiting [the page](https://throbbing-feather-4836.fly.dev/)
+To deploy this application you can use Github pages, Netlify, Railway or similar.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,7 +144,7 @@ or you can create your own account visiting [the page](https://throbbing-feather
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/anderCM/Budges-app/issues).
+Feel free to check the [issues page](https://github.com/anderCM/Rails-React/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
